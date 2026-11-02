@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Muhammad 👋
 
-<!--
-**Mohammad-Saleh-88/Mohammad-Saleh-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** focused on turning raw data into clear, actionable insights.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Power BI** – dashboards, DAX, data modeling
+- **Excel** – data cleaning, pivot tables, formulas
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+
+
+## 📫 Contact
+- LinkedIn: [www.linkedin.com/in/muhammad-saleh-87a828410]
+- Email: [md.saleh.3508@gmail.com]
