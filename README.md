@@ -25,5 +25,5 @@ My projects will be showcased here as I continue learning and developing my skil
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** (https://www.linkedin.com/in/muhammad-saleh-87a828410)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/muhammad-saleh-87a828410)
 - **Email:** md.saleh.3508@gmail.com
