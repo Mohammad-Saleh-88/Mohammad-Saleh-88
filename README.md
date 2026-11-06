@@ -28,3 +28,49 @@ My projects will be showcased here as I continue learning and developing my skil
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/muhammad-saleh-87a828410)
 - **Email:** md.saleh.3508@gmail.com
 
+
+---
+
+## 🎓 Certificates & Training
+
+### 1. Data Analysis – Data Analysis and Human Resources Center
+
+Successfully completed a 20-hour Data Analysis course covering:
+
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- DAX
+- Power BI
+
+**Completion Date:** June 15, 2026
+
+<img src="Certificate_Clear.png" alt="Data Analysis Certificate" width="700"/>
+
+---
+
+### 2. Your Starter Guide to Becoming a Data Analyst – 4Insights Academy
+
+Successfully completed the introductory course "Your Starter Guide to Becoming a Data Analyst", gaining foundational knowledge of the Data Analysis field.
+
+**Completion Date:** June 28, 2025
+
+<img src="4Insights-Data-Analyst-Certificate.jpg" alt="4Insights Academy Certificate" width="700"/>
+
+---
+
+### 3. Soft Skills Training Program – Takenda Courses
+
+Successfully completed the Soft Skills Training Program and passed the examination with an **Excellent** grade.
+
+Topics covered:
+
+- Interviewing Skills
+- Leadership Skills
+- Time Management
+- Active Communication
+- Problem Solving
+
+**Awarded Date:** June 6, 2026
+
+<img src="Takenda-Soft-Skills-Certificate.jpg" alt="Takenda Soft Skills Certificate" width="700"/>
