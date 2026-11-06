@@ -27,3 +27,5 @@ My projects will be showcased here as I continue learning and developing my skil
 
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/muhammad-saleh-87a828410)
 - **Email:** md.saleh.3508@gmail.com
+
+- https://github.com/Mohammad-Saleh-88/Mohammad-Saleh-88/blob/30084cd40e43680830d295de8e9aaf32373aa827/Certificate_Clear.png
