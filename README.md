@@ -29,9 +29,9 @@ Employee data analysis using Excel, Power Query, PivotTables, and dashboard repo
 [View Project on GitHub](https://github.com/Mohammad-Saleh-88/Excel-Data-Analysis-Project)
 ## 🎯 Current Goals
 
-- Improving my data analysis skills.
-- Building practical projects using Excel and Power BI.
-- Learning new tools and techniques in data analysis.
+- Expanding my data analysis skills through practical projects.
+- Developing my knowledge of SQL, Python, and Statistics.
+- Strengthening my ability to transform data into meaningful business insights.
 
 ## 📫 Connect with Me
 
