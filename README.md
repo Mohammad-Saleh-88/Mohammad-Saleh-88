@@ -32,7 +32,9 @@ Built a Power BI report to analyze sales performance, product profitability, ord
 ### 3. Employee Data Analysis & HR Dashboard
 Analyzed employee data using Excel and Power Query, applying PivotTables and data visualization to explore workforce demographics, salaries, and performance.
 
-[View Project on GitHub](https://github.com/Mohammad-Saleh-88/Excel-Data-Analysis-Project)## 🎯 Current Goals
+[View Project on GitHub](https://github.com/Mohammad-Saleh-88/Excel-Data-Analysis-Project)
+
+## 🎯 Current Goals
 
 - Expanding my data analysis skills through practical projects.
 - Developing my knowledge of SQL, Python, and Statistics.
