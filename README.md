@@ -13,10 +13,20 @@ I'm continuously learning and developing my skills to build a strong foundation 
 
 ## 📊 Featured Projects
 
-I'm currently working on practical data analysis projects using Excel and Power BI.
+### 1. Bank Customer Churn Analysis
+Customer churn analysis using Excel, focusing on customer behavior, churn patterns, and business insights.
 
-My projects will be showcased here as I continue learning and developing my skills.
+[View Project on GitHub](https://github.com/Mohammad-Saleh-88/Bank-Customer-Churn-Analysis)
 
+### 2. Clothing Brand Sales & Profitability Analysis
+Sales and profitability analysis using Power BI, with interactive report pages and business insights.
+
+[View Project on GitHub](https://github.com/Mohammad-Saleh-88/Clothing-Brand-Sales-Analysis)
+
+### 3. Employee Data Analysis & HR Dashboard
+Employee data analysis using Excel, Power Query, PivotTables, and dashboard reporting.
+
+[View Project on GitHub](https://github.com/Mohammad-Saleh-88/Excel-Data-Analysis-Project)
 ## 🎯 Current Goals
 
 - Improving my data analysis skills.
