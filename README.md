@@ -7,9 +7,15 @@ I'm continuously learning and developing my skills to build a strong foundation 
 
 ## 🛠️ Skills & Tools
 
-- **Microsoft Excel:** Data Cleaning, Pivot Tables, Formulas, Dashboards
-- **Power Query:** Data Transformation
-- **Power BI:** Data Visualization, Dashboards
+- Microsoft Excel (Advanced)
+- Power Query
+- PivotTables & PivotCharts
+- Excel Formulas (XLOOKUP, VLOOKUP, IF, SUMIFS, COUNTIFS)
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Power BI
+- Dashboard Development
 
 ## 📊 Featured Projects
 
