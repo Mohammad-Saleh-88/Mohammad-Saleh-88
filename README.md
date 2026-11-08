@@ -93,3 +93,20 @@ Successfully completed a 20-hour Data Analysis course covering:
 
 <img src="Certificate_Clear.png" alt="Data Analysis Certificate" width="700"/>
 
+---
+
+### 4. Data Analysis Training – Growth Level Academy
+
+Currently enrolled in a practical Data Analysis training program.
+
+**Completed:**
+- Excel
+- Power BI
+
+**Currently Learning:**
+- SQL
+- Python
+- Statistics
+
+**Status:** In Progress
+
